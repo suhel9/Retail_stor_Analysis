@@ -25,7 +25,7 @@ Category and subcategory sales summary.
 Top products by profit and sales.
 KPI cards: Total Sales, Profit, Transactions</div>
 
-##Dashboard 2: Customer & Employee Insights <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Customer_%20and_%20Employee_Dashboard.png">Link</a>
+## Dashboard 2: Customer & Employee Insights <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Customer_%20and_%20Employee_Dashboard.png">Link</a>
 <div>Focus: Sales performance of Employee</div>
 <div>Key Features:
 Top 10 customers by revenue.
@@ -35,7 +35,7 @@ Target vs actual sales comparison.
 Employee-level breakdown of performance.
 Filters for Customer and Employee Name. </div>
 
-## Dashboard 2: Product Analysis Dashboard  <a href="(https://github.com/suhel9/Retail_stor_Analysis/blob/main/Product_Dashboard.png">Link</a>
+## Dashboard 3: Product Analysis Dashboard  <a href="(https://github.com/suhel9/Retail_stor_Analysis/blob/main/Product_Dashboard.png">Link</a>
 <div>Focus: Product profitability and performance</div>
 <div>Key Features:
 Correlation between sales and profit.
