@@ -35,7 +35,7 @@ Target vs actual sales comparison.
 Employee-level breakdown of performance.
 Filters for Customer and Employee Name. </div>
 
-## Dashboard 3: Product Analysis Dashboard  <a href="(https://github.com/suhel9/Retail_stor_Analysis/blob/main/Product_Dashboard.png">Link</a>
+## Dashboard 3: Product Analysis Dashboard <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Product_Dashboard.png">Link</a>
 <div>Focus: Product profitability and performance</div>
 <div>Key Features:
 Correlation between sales and profit.
