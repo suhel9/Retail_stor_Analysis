@@ -6,7 +6,7 @@ This repository showcases an end-to-end Retail Business Intelligence solution bu
 <p>Employee Table <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Salesperson_Details_Realistic.xlsx">Link</a></p>
 <p>Product Table <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Product_Details_Realistic.xlsx">Link</a></p>
 
-##Dataset Overview
+## Dataset Overview
 The data used for this project is a simulated retail dataset, containing:
 Sales transactions (100,000+ rows).
 Employee information (100 records).
