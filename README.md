@@ -15,12 +15,12 @@ Product catalog.
 Supplier information.
 Date fields for monthly/yearly trend analysis.
 
-## Dashboard 1: Sales Analysis Dashboard
+## Dashboard 1: Sales Analysis Dashboard <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Sales_Dashboard.png">Link</a>
 <div>Focus: Time-based sales trend and category analysis</div>
-<p></p>Key Features:
-Monthly sales over two years
-Filters for country, gender, and date range
-Target vs actual yearly sales gauge
-Category and subcategory sales summary
-Top products by profit and sales
-KPI cards: Total Sales, Profit, Transactions</p>
+<div>Key Features:
+Monthly sales over two years.
+Filters for country, gender, and date range.
+Target vs actual yearly sales gauge.
+Category and subcategory sales summary.
+Top products by profit and sales.
+KPI cards: Total Sales, Profit, Transactions</div>
