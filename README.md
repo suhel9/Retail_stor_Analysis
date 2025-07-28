@@ -14,3 +14,13 @@ Customer data (2000+ customers).
 Product catalog.
 Supplier information.
 Date fields for monthly/yearly trend analysis.
+
+## Dashboard 1: Sales Analysis Dashboard
+<div>Focus: Time-based sales trend and category analysis</div>
+<p></p>Key Features:
+Monthly sales over two years
+Filters for country, gender, and date range
+Target vs actual yearly sales gauge
+Category and subcategory sales summary
+Top products by profit and sales
+KPI cards: Total Sales, Profit, Transactions</p>
