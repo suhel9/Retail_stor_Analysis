@@ -6,7 +6,7 @@ This repository showcases an end-to-end Retail Business Intelligence solution bu
 <li>Employee Table <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Salesperson_Details_Realistic.xlsx">Link</a></li>
 <li>Product Table <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Product_Details_Realistic.xlsx">Link</a></li>
 </ul>
-## Dataset Overview <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Sales_Dashboard.pbix">Dashboard_link</a>
+<h2>Dataset Overview <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Sales_Dashboard.pbix">Dashboard_link</a></h2>
 <p>The data used for this project is a simulated retail dataset, containing:</p>
 <ol>
 <li>Sales transactions (100,000+ rows).</li>
