@@ -6,14 +6,16 @@ This repository showcases an end-to-end Retail Business Intelligence solution bu
 <li>Employee Table <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Salesperson_Details_Realistic.xlsx">Link</a></li>
 <li>Product Table <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Product_Details_Realistic.xlsx">Link</a></li>
 </ul>
-## Dataset Overview <a hre="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Sales_Dashboard.pbix">Dashboard_link</a>
-The data used for this project is a simulated retail dataset, containing:
-Sales transactions (100,000+ rows).
-Employee information (100 records).
-Customer data (2000+ customers).
-Product catalog.
-Supplier information.
-Date fields for monthly/yearly trend analysis.
+## Dataset Overview <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Sales_Dashboard.pbix">Dashboard_link</a>
+<p>The data used for this project is a simulated retail dataset, containing:</p>
+<ol>
+<li>Sales transactions (100,000+ rows).</li>
+<li>Employee information (100 records).</li>
+<li>Customer data (2000+ customers).</li>
+<li>Product catalog.</li>
+<li>Supplier information.</li>
+<li>Date fields for monthly/yearly trend analysis.</li>
+</ol>
 
 ## Dashboard 1: Sales Analysis Dashboard <a href="https://github.com/suhel9/Retail_stor_Analysis/blob/main/Sales_Dashboard.png">Link</a>
 <div>Focus: Time-based sales trend and category analysis</div>
